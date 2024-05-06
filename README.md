@@ -1,5 +1,4 @@
-# Master thesis by Johannes Schmidt
-## Applying a U-Net to segment microtubules in electron tomograms of *Trypanosoma brucei*
+# Applying a U-Net to segment microtubules in electron tomograms of *Trypanosoma brucei*
 
 This repository contains the python files for creating, training and testing the models.
 It also contains the code for creating the plots that were used in this thesis.
